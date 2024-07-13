@@ -1,0 +1,60 @@
+Das Geheimnis des Schlosses
+
+In diesem Text-Adventure schlüpfst du in die Rolle eines jungen Abenteurers, der sich auf die Suche nach dem Geheimnis des Schlosses macht. Das Schloss befindet sich in einem abgelegenen Wald und ist von einem bösen Zauber belegt. Du musst den Zauber brechen, um das Geheimnis des Schlosses zu lüften.
+
+Spielablauf:
+
+Das Spiel beginnt mit einer Einführung, in der du über die Handlung und die Spielregeln informiert wirst. Anschließend kannst du das Spiel beginnen.
+
+Du kannst dich frei in der Spielwelt bewegen und mit den Gegenständen und Personen interagieren. Um etwas zu tun, musst du einen Befehl angeben. Beispielsweise kannst du den Befehl "gehen" verwenden, um dich zu bewegen, oder den Befehl "nehmen", um einen Gegenstand aufzunehmen.
+
+Das Spiel endet, wenn du das Geheimnis des Schlosses gelüftet hast.
+
+Spielregeln:
+
+Du kannst dich frei in der Spielwelt bewegen.
+Du kannst mit den Gegenständen und Personen interagieren.
+Um etwas zu tun, musst du einen Befehl angeben.
+Das Spiel endet, wenn du das Geheimnis des Schlosses gelüftet hast.
+Aufgaben:
+
+Erstelle eine Spielwelt mit mindestens 5 Räumen.
+Erstelle mindestens 5 Gegenstände und 5 Personen.
+Implementiere die Interaktion zwischen dir und der Spielwelt.
+Implementiere das Ende des Spiels.
+
+Geschichte:
+
+Die Geschichte könnte folgendermaßen beginnen:
+
+Du bist ein junger Abenteurer, der in einem kleinen Dorf am Rande eines großen Waldes lebt. Eines Tages hörst du von einem geheimnisvollen Schloss, das sich tief im Wald befindet. Das Schloss ist von einem bösen Zauber belegt, und niemand weiß, was sich darin befindet. Du entscheidest dich, das Schloss zu erkunden und das Geheimnis zu lüften.
+
+Die Geschichte könnte sich dann wie folgt entwickeln:
+
+Im Wald triffst du auf verschiedene Personen, die dir Hinweise auf das Schloss geben können. Du entdeckst, dass das Schloss einst von einem mächtigen Zauberer erbaut wurde. Der Zauberer wurde jedoch von einem bösen Geist besiegt, der das Schloss mit einem Fluch belegte. Um den Fluch zu brechen, musst du den Geist besiegen.
+
+Gegenstände:
+
+In der Spielwelt könnten folgende Gegenstände vorkommen:
+
+Eine Karte des Waldes
+Ein Schwert
+Ein Zauberbuch
+Eine magische Trank
+
+NPCs (Non playable characters):
+
+In der Spielwelt könnten folgende NPCs vorkommen:
+
+Ein alter Mann, der dir Geschichten über das Schloss erzählen kann
+Ein Zauberer, der dir helfen kann, den Fluch zu brechen
+Ein Geist, der das Schloss bewacht
+
+
+
+
+
+2 dimensional - bewegung durch wasd
+Räume: Eingangshalle, Küche x 2/3, Badezimmer, Schlafzimmer (x 10) + Begehbarer Kleiderschrank, Balkon, Gruft
+
+Eingangshalle: Bilder, Oma - gibt dir die Aufgabe, dass sie ihr Rezept haben möchte. - gibt dir Hinweis über das Buch im Bücherregal in der Bibliothek - werstes Stockwerk - Stufen, man geht rauf - zuerst kommt man beim Badezimmer vorbei - Friseur - wo ist Bibliothek - boaaaaa zuerst Haare Schneiden - dann Pfeil auf dem Kopf folgen + geschrieben - auf dem Weg zur Bibliothek siehst du die Katze - Schere mitnehmen - mega Alergische Reaktion - 3 Möglichkeiten um Katze zu vertreiben - dann Bibliothek - schauen - Finde Buch - nehmen, Keller.

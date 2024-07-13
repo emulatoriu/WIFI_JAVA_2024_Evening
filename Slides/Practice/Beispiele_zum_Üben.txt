@@ -1,0 +1,81 @@
+Beispiel Quizgenerator:
+
+Auf die Konsole soll jemandem zu einem bestimmten Thema Fragen aus einem Fragenpool gestellt werden. Für den Fragepool wählt 30 Fragen und Antworten von folgendem Link: https://www.raetseldino.de/quiz.html
+Einem Teilnehmer des Quiz müssen 10 Fragen gestellt werden. Für jede richtige Antwort gibt es einen Punkt, am Ende muss die Punktezahl ausgegeben werden, die der Teilnehmer erreicht hat. Nach einer jeden Frage muss ausgegeben werden, ob der Teilnehmer des Quiz die Frage richtig beantwortet hat oder welche die richtige Antwort ist.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tischreservierungssystem:
+
+Entwickle ein System mit dem es mir möglich ist einen Tisch zu reservieren. Der Einfachheit halber wird nicht auf das Datum oder die Uhrzeit Rücksicht genommen, jeder Tisch kann nur einmal vergeben werden. Dabei soll es von der Console so lange möglich sein einen Tisch zu reservieren, bis "Exit" eingegeben wird. Von der Console soll die Anzahl der Personen eingegeben werden für die Reserviert wird. Wenn ein Tisch verfügbar ist, soll die Daten des Tisches ausgegeben werden. Wenn kein Platz mehr vorhanden ist, soll eine dementsprechende Meldung ausgegeben werdden. 
+Jeder Tisch hat einen Namen, eine ID und eine Anzahl an Sitzplätzen. Erstelle für dein Programm vier 2er Tische, acht 4er Tische und drei 5er Tische.
+
+Erweiterung:
+Man kann die Tische zusammenschieben, sodass auch eine größere Grupper reservieren könnte
+
+Erweiterung:
+Man liest aus einem File die Tischkonfiguration ein
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Rechnungserstellung:
+
+Schreibe ein Programm, dass Rechnungsdaten aus der Console einliest und aus dieser eine Rechnung als .txt Datei erstellt. Folgende Daten werden nicht eingelesen sondern hinzugeneriert:
+.) Rechnungsnummer - diese besteht aus dem derzeitigen Quartal (zum Beispiel "Q1"), einem "/", dem heutigen Datum im Format DDMMYYYY, einem "-" und einer fortlaufenden Nummer für den derzeitigen Tag beginnend mit "1" (Achtung, wenn man eine Rechnung erstellt und das Programm schließt und wieder startet, darf die Rechnung nicht wieder bei "1" beginnen, wenn man sie neu erstellt)
+
+
+Folgende Daten müssen eingelesen werden:
+
+Rechnungssteller Name
+Rechnungssteller Anschrift
+Rechnungssteller UID Nummer
+Rechnungssteller Kontonummer
+Rechnungssteller Email
+Rechnungssteller Telefonnummer
+
+Rechnungsempfänger Name
+Rechnungsempfänger Anschrift
+Rechnungsempfänger UID Nummer
+
+Der Betrag
+
+Die Rechnung muss folgende Form haben:
+
+
+
+
+
+Rechnungsempfänger Name								Rechnungssteller Name			
+Rechnungsempfänger Anschrift						Rechnungssteller Anschrift
+Rechnungsempfänger UID Nummer						Rechnungssteller UID Nummer
+													Heutiges Datum
+													
+Rechnung: {Rechnungsnummer}
+
+Honorar für IT-Consulting {aktuelles Monat}/{aktuelles Jahr}
+------------------------------------------------------------------------------------
+Honorar						| {Nettobetrag}
++ 20% Ust.					| {berechnete Ust.}
+------------------------------------------------------------------------------------
+Gesamt Brutto				| {Gesamtbetrag}
+
+
+Zu überweisen auf das Konto mit der Kontonummer {Rechnungssteller Kontonummer}, lautend auf {Rechnungssteller Name}. 
+Bitte die Rechnungsnummer als Verwendungszweck angeben.
+
+
+
+
+------------------------------------------------------------------------------------
+Rechnungssteller Name - Rechnungssteller Anschrift - Rechnungssteller UID Nummer - 
+Rechnungssteller Kontonummer - Rechnungssteller Email - Rechnungssteller Telefonnummer
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Beispiel Schach
+
+Erstelle ein Schachbrett und den Springe. Setze den Springer zu beginn auf ein beliebiges Feld. Von dort gib auf der Console aus, auf welche Felder der Springer springen kann und lass den User des Programmes wählen, wohin der Springer springen soll. Das ganze wiederholt sich von der neuen Position des Springers so lange, bis der User das Wort "Exit" eingibt.

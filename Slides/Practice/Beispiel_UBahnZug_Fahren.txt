@@ -1,0 +1,24 @@
+Schreibe ein Programm, dass mit einem Zug oder Ubahn an einem bestimmten Knoten startet und versucht den richtigen Weg von einem Knoten zum Endknoten zu finden. Es soll der "gefahrene Weg" in Form der Stationsnamen ausgegeben werden, wie lange von einer zur nächsten Station gefahren wurde und wie lange die komplette Strecke gedauert hat, wenn man davon ausgeht, dass die Aufenthaltszeit in jeder Station 1 Minute beträgt.
+
+Die Stations ID bestimmt dabei die eindeutige ID einer Station. StationName ist der Name der Station, StationLeft ist die ID des linken Nachbarn, StaionRight ist die id des rechten Nachbarn, RightTime ist die Zeit die es benötigt zum Rechten Nachbarn zu fahren.
+
+Die Topologie der Knoten/Stationen wird dabei aus einem File eingelesen - in folgendem Format
+
+StationdID=1
+StationName="Oberlaa"
+StationLeft=
+StationRight="Neulaa"
+RightTime=2
+
+StationID=2
+StationName="Neulaa"
+StationLeft=1
+StationRight=3
+RightTime=4
+
+
+........
+
+Das Programm wird folgendermaßen aufgerufen: trainMove.exe PfadZumIniFile StartStationName EndStationName
+
+Sollte ein Stationsname übergeben werden, der nicht existiert, so soll das Programm mit einer entsprechenden Fehlermeldung beenden. Sollte das ini File ein Fehlerhaftes Format vorweisen, sollte ausgegeben werden, an welcher Stelle im File ein Fehler existiert.

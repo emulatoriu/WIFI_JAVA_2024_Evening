@@ -1,0 +1,25 @@
+Schreibe ein Programm, das die Zahlen von 1 bis 5 mit einer for-Schleife ausgibt.
+Schreibe ein Programm, das die Zahlen von 5 bis 1 mit einer while-Schleife rückwärts ausgibt.
+Schreibe ein Programm, das ein Array von 5 Wörtern mithilfe einer for-Schleife ausgibt.
+Schreibe ein Programm, das prüft, ob ein eingegebenes Wort länger als 5 Zeichen ist.
+Schreibe ein Programm, das prüft, ob eine eingegebene Zahl positiv oder negativ ist.
+Schreibe ein Programm, das zwei eingegebene Zahlen vergleicht und die größere Zahl ausgibt.
+Schreibe eine Klasse "Tier" mit dem Attribut "Name". Erstelle dann zwei Objekte dieser Klasse und gib ihre Namen aus.
+Schreibe eine Klasse "Auto" mit den Attributen "Marke" und "Modell". Erstelle dann ein Objekt dieser Klasse und gib seine Attribute aus.
+Schreibe eine Klasse "Person" mit den Attributen "Vorname", "Nachname" und "Alter". Erstelle dann ein Objekt dieser Klasse und gib seine Attribute aus.
+Schreibe ein Programm, das ein Array von 5 Zahlen einliest und ihre Summe ausgibt.
+Schreibe ein Programm, das ein Array von 10 Zahlen einliest und den Durchschnitt ausgibt.
+Schreibe ein Programm, das ein Array von Wörtern einliest und das kürzeste Wort ausgibt.
+Schreibe ein Programm, das ein Array von Zahlen einliest und nur die geraden Zahlen mithilfe einer for-Schleife ausgibt.
+Schreibe ein Programm, das ein Array von Wörtern einliest und nur die Wörter mit mehr als 4 Buchstaben mithilfe einer while-Schleife ausgibt.
+Schreibe eine Klasse "Buch" mit den Attributen "Titel", "Autor" und "Seitenzahl". Erstelle dann ein Array von Büchern und gib die Titel der Bücher mit mehr als 100 Seiten aus.
+Schreibe eine Klasse "Student" mit den Attributen "Name" und "Matrikelnummer". Erstelle dann ein Array von Studenten und gib die Namen der Studenten mit einer Matrikelnummer größer als 1000 aus.
+Schreibe ein Programm, das ein Array von Zahlen einliest, diese mithilfe einer for-Schleife sortiert und dann ausgibt.
+Schreibe ein Programm, das ein Array von Personen mit Namen und Alter einliest, und dann die Namen der Personen, die älter als 18 sind, ausgibt.
+Schreibe ein Programm, das eine Liste von Wörtern einliest, diese in einem Array speichert und dann alle Palindrome (Wörter, die vorwärts und rückwärts gelesen gleich sind) ausgibt.
+Schreibe ein Programm, das eine Liste von Sätzen einliest, und dann die Anzahl der Wörter im längsten Satz ausgibt.
+
+
+
+
+

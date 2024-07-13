@@ -1,0 +1,14 @@
+Beispiel Karaoke:
+
+Erstelle ein Programm, dass aus einem Textfile oder String oder ..... einen Songtest einliest und diesen Songtext dann in einem bestimmten Rythmus auf die Konsole ausgibt. Folgende Takte müssen dabei möglich sein: Ganzer, halber, viertel und achtel (Happy Birthday wird zum Beispiel im halben Takt gespielt).
+Erweiterung - ermögliche, dass auch bestimmte Wörter in mehreren Taktzyklen ausgegeben werden können, in dem man im Wort für jeden Taktzyklus zwischen den jeweiligen Silben/Buchstaben "-" hinzufügt (Bei dem Wort "wild" aus dem Songtext "Born to be wild" müsste das "wild" zum Beispiel so im Text stehen "wi---ld")
+
+Beispiel TicTacToe mögliche Bilder:
+
+Schreibe  ein Programm, dass berechnen kann wie viele mögliche Bilder es in TicTacToe gibt. Nimm dabei an, dass ein TicTacToe Feld ein quadtratisches Feld ist - also 3x3, 4x4, 5x5 usw..... - jede 2. Dimension kommt ein Stein zum Gewinn hinzu - d.h. bei 3x4 und 4x4 muss man nur 3 Steine setzen um zu gewinnen, bei 5x5 und 6x6 4 Steine usw.
+
+Bedenke dabei, dass du den Binomialkoeffizienten brauchst: n über k (n!/(k! mal (n-k)!)) sagt dir wieviele Möglichkeiten du hast k elemente aus n zu wählen.
+
+Wie viele Möglichkeiten gibt es zum Beispiel 1 X auf ein leeres 3x3 Feld zu setzen? 9 über 1. Ein X und ein O? 9 über 1 mal 8 über 1.
+
+Die möglichen Positionen bei TicTacToe bei dem ersten Zug sind dann also 9 über 1 von einem X plus 9 über 1 mal 8 über 1 von einem X und einem O

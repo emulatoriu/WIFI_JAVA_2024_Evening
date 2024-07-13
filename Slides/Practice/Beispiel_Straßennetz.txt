@@ -1,0 +1,36 @@
+
+
+Schreib ein Programm, dass den schnellsten Weg im Straßennetz vom Start bis zum Ziel errechnet.
+Dabei könnte ein Straßennetz folgendermaßen aussehen:
+
+
+               o-----------o-------------o----------------------o------o
+               |           |             |                             |
+               |           |             |                             |
+o--------------X-----------X-------------o-----------o                 |
+|              |           |                         |                 |
+|              |           |                         |                 |
+|       o------o           o                         o-----------------o
+|       |               
+X-------o------o----o
+|                             o
+|                             |
+|                             |
+|              o--------------o
+|                             |
+o-----o-----------------------o
+
+Ein "o" ist ein Knotenpunkt
+Ein "X" bedeutet eine Ampel.
+Bei Ampeln muss man mit einer Wahrscheinlichkeit von 20% 1 Minute warten.
+
+Zu Beginn des Programmes kann man eins aus 3 Fahrzeugen wählen.
+Fahrzeug 1: 
+Aston Martin: Wegzeit pro Strich 1 Minute
+			  Wahrscheinlichkeit bei einem Knotenpunkt von der Polizei für 1 Minute gestoppt zu werden - 70%
+Volvo: Wegzeit pro Strich 1.5 Minuten
+	   Wahrscheinlichkeit bei einem Knotenpunkt von der Polizei für 1 Minute gestoppt zu werden - 15%
+VW Käfer: Wegzeit pro Strich 2 Minuten
+		  Wahrscheinlichkeit bei einem Knotenpunkt von der Polizei für 1 Minute gestoppt zu werden - 5%
+		  
+Dein Programm muss am Ende ausgeben, ob du mit deinem Auto am schnellsten warst, oder  ob es mit einem anderen schneller gegangen wäre

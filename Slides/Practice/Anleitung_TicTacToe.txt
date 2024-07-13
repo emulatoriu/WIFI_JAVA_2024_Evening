@@ -1,0 +1,18 @@
+Ein eindimensionales Array erstellen:
+
+Erstelle ein eindimensionales Array, um das Spielfeld darzustellen. Das Spielfeld besteht aus 3 Zeilen und 3 Spalten, daher solltest du ein Array mit der Größe 9 erstellen.
+Das Spielfeld initialisieren:
+
+Initialisiere alle Werte des Spielfelds mit einem Leerzeichen (' ') als Platzhalter für leere Felder.
+Das Spielfeld anzeigen:
+
+Schreibe eine Methode, um das Spielfeld anzuzeigen. Diese Methode sollte das Array durchlaufen und jedes dritte Feld mit einem Zeilenumbruch auf dem Bildschirm anzeigen.
+Spielerzug implementieren:
+
+Schreibe eine Methode, um den Zug eines Spielers zu verarbeiten. Diese Methode sollte die Koordinaten für den Zug des Spielers abfragen und prüfen, ob das gewählte Feld leer ist. Wenn das Feld leer ist, sollte die Methode den Wert im Array an den entsprechenden Koordinaten mit dem Symbol des Spielers ('X' oder 'O') aktualisieren.
+Gewinnbedingungen überprüfen:
+
+Schreibe eine Methode, um zu überprüfen, ob ein Spieler gewonnen hat. Diese Methode sollte das Array durchlaufen und überprüfen, ob es eine Reihe, Spalte oder Diagonale mit drei gleichen Symbolen gibt.
+Spielablauf steuern:
+
+Implementiere eine Schleife, die den Spielablauf steuert. In jedem Schritt der Schleife sollte der Spielerzug für einen Spieler verarbeitet werden, das Spielfeld aktualisiert und auf Gewinnbedingungen überprüft werden. Wenn ein Spieler gewonnen hat, sollte das Spiel beendet und der Gewinner bekannt gegeben werden. Wenn das Spielfeld voll ist und kein Spieler gewonnen hat, sollte das Spiel als Unentschieden beendet werden.

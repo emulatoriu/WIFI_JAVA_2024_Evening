@@ -1,0 +1,23 @@
+.) Kreiere eine Funktion die ein Monat in Zahlen bekommt (1-12) und das Monat dann als Text zurückgibt
+.) Finde eine Funktion, die die kleinste/größte Zahl in einer Liste oder einem Array zurückliefern kann
+.) Schreibe eine Funktion, die den vollen Namen einer Person bekommt und dann diesen invertiert zurück liefert: z.B.: „John Doe“ ==> „Doe John“ (Tipp, String Funktionen)
+.) Schreibe eine Funktion, die bestimmen kann, wie viele Vokale sich in einem Wort befinden: z.B.: Banane ==> 3 (String split)
+.) Erstelle eine Funktion, die aus einem String einen kodierten String zurückliefert. Dabei werden alle ‚a‘ durch ‚4‘, alle ‚e‘ durch ‚3‘ alle ‚s‘ durch ‚5‘, alle ‚o‘ durch ‚0‘ und alle ‚i‘ durch ‚1‘ ersetzt
+.) Schreibe eine Funktion, die den case aller Characters in einem String vertauscht.
+.) Schreibe eine Funtkion, die alle Indices von groß geschriebenen Buchstaben aus einem String
+ 
+returniert
+.) Schreibe eine Funktion, die den mittleren Character eines Strings returniert. Wenn es keine genaue Mitte gibt, dann müssen die 2 mittleren Character returniert werden
+.) Schreibe eine Funktion, die überprüft ob ein String ein Palindrom ist
+.) Schreibe eine Funktion, die überprüft, ob ein String ein „fast Palindrom“ ist (ein String ist dann ein fast Palindrom, wenn man nur einen Character ändern müsste, damit es zu einem Palindrom wird)
+.) Schreibe eine Funktion, die aus einem String ein Palindrom macht, wenn es noch keines ist. Dabei muss der ursprüngliche String im neuen Wort enthalten sein
+.) Schreibe eine Funktion, die Berechnen kann, wie hoch meine Gewinnchancen bei Lotteriespielen ist, bei denen man aus einer bestimmten Menge an Zahlen bestimmte Zahlen auswählen muss (zum Beispiel 6 aus 45) – kleiner Tipp – man braucht den Binomialkoeffizienten
+.) Kleinster gemeinsamer Nenner 2er Zahlen – z.B. 24, 100 ==> 4
+.) kleinstes gemeinsames Vielfaches – z.B. 50, 70 ==> 350
+.) Schreibe eine Funktion, die überprüft ob ein String ein Isogramm ist (ein Wort, dass keinen Buchstaben 2 Mal enthält)
+.) Schreibe eine Funktion, die ein Datum als String erhält und das Datum eine Woche später als String returniert (Format für ein oder Ausgabe ist frei wählbar)
+.) Schreibe eine Funktion, die eine Zahl in seine Hexzahl umwandelt (verwende keine build in Funktionen)
+.) Schreibe eine Funktion, die überprüft, welche die nächsthöhere „uban“ Zahl einer übergebenen ist. Eine Zahl ist dann „uban“ wenn ihr Wort in Englisch keine „u“ enthält. Also alle Zahlen die eine 4, 100 oder 1000 enthalten sind nicht „uban“
+.) Schreibe eine Funktion, die einen Camelcase String in einen Snakecase String umwandelt
+.) Schreibe eine Funktion, die überprüfen kann, ob eine als String übergebene Ungleichung true returnieren würde oder false: z.B. 33 > 5 ==> true
+.) Schreibe eine Funktion, die ein 2 dimensionales int Array als Parameter erhält. Dieses Array hat genau 64 Felder wie ein Schachbrett. Es besteht nur aus ‚0‘ und ‚1‘ wobei eine 0 ein leeres Feld und eine 1 einen Springer repräsentiert. Die Funktion returniert true, wenn kein Springer einen anderen Fressen könnte, sonst false.

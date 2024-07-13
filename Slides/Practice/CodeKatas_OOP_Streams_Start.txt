@@ -1,0 +1,32 @@
+1.	Filtere alle Erwachsenen aus einer Liste von Personen.
+2.	Wandle eine Liste von Produktpreisen in Preise mit Mehrwertsteuer um.
+3.	Berechne den Durchschnittsalter einer Gruppe von Personen.
+4.	Erstelle eine Map von Mitarbeiternachnamen zu ihren E-Mail-Adressen.
+5.	Prüfe, ob eine Liste von Bestellungen mindestens eine Bestellung über 100€ enthält.
+6.	Erhalte eine Liste aller Buchtitel, die in einer Bücherliste veröffentlicht wurden. - Book(String title, boolean published)
+7.	Finde das teuerste Produkt in einer Produktliste.
+8.	Suche das erste verfügbare Zimmer in einer Liste von Hotelzimmern.
+9.	Zähle, wie viele Angestellte in einer Firma mehr als 5 Jahre Erfahrung haben.
+10.	Sortiere eine Liste von Städten nach ihrer Einwohnerzahl.
+11.	Finde alle einzigartigen Kategorien aus einer Produktliste.
+12.	Wandle eine Liste von Zeiten (in Minuten) in Stunden um.
+
+13.	Filtere alle offenen Support-Tickets aus einer Ticketliste.
+14.	Erstelle eine Liste aller Feiertage dieses Jahres.
+15.	Wandle eine Liste von Kundennamen in eine Map um, die zählt, wie oft jeder Name vorkommt.
+16.	Prüfe, ob in einer Liste von Flügen alle pünktlich sind.
+17.	Finde das Gesamtgewicht aller Produkte in einem Lager.
+18.	Erstelle eine Map, die jedes Wort in einem Text und seine Häufigkeit zählt. (collect(Collectors.groupingBy(....., Collectors.counting())))
+19.	Berechne die Gesamtsumme aller Bestellungen eines Kunden.
+20.	Finde alle Kunden, die in einer bestimmten Stadt wohnen.
+21.	Erstelle eine Liste der Top 10 meistverkauften Produkte.
+22.	Wandle eine Liste von Fahrzeugen in eine Liste ihrer Kennzeichen um.
+23.	Finde das billigste Zimmer in einer Liste von Hotelzimmern.
+24.	Berechne die gesamte zurückgelegte Distanz eines Fahrers aus einer Liste von Fahrten.
+25.	Teile eine Liste von Studierenden in zwei Gruppen auf, basierend darauf, ob sie den Kurs bestanden haben.
+26.	Erzeuge eine Liste von Termindaten für die nächsten 30 Tage.
+27.	Wandle eine Liste von Temperaturen in Fahrenheit in Celsius um.
+28.	Finde alle Produkte in einer Liste, die nicht auf Lager sind.
+29.	Berechne den Durchschnittspreis aller Produkte in einer Kategorie.
+30.	Erstelle eine Liste aller Kunden, die in den letzten 6 Monaten eine Bestellung aufgegeben haben.
+

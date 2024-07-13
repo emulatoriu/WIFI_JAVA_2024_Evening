@@ -1,0 +1,60 @@
+Bank Account Management System:
+Implement a system to manage bank accounts, customers, and transactions. 
+ - Each account should have a unique account number, a type (such as savings or checking), and a balance. 
+ - Customers should have a name, address, and phone number. 
+ - Transactions should have a type (such as deposit or withdrawal), an amount, and a date.
+ > Create a function that retrieves all accounts with a balance greater than a certain amount
+ > Create a function that transfers money from one account to another.
+ > Create a function that generates a monthly statement for each customer, summarizing all transactions in that month.
+
+Online Shopping System:
+Implement an online shopping system where customers can browse products, make orders, and check out. 
+ - Each product should have a product ID, name, and price. 
+ - Customers should have a name, address, and email. 
+ - Orders should have an order ID, date, and total price. 
+ > Create a function that retrieves all products with a price less than a certain amount 
+ > Create a function that calculates the total revenue of the store 
+
+Library Management System:
+Implement a system to manage a library's books, authors, and members. 
+ - Each book should have a unique book ID, a title, and an ISBN. 
+ - Authors should have a name, nationality, and birth date. 
+ - Members should have a name, address, and phone number. 
+ > Create a function that retrieves all books written by a certain author 
+ > Create a function that retrieves all books in a particular category or genre.
+
+
+Hospital Management System:
+Implement a system to manage a hospital's patients, doctors, and appointments. 
+ - Each patient should have a unique patient ID, a name, and a date of birth. 
+ - Doctors should have a name, specialization, and years of experience. 
+ - Appointments should have an appointment ID, a date, and a time. 
+ > Create a function that retrieves all patients who have appointments with a certain doctor > Create a function that schedules a new appointment
+ > Create a function that returns the patient who had the most appointments
+
+Hotel Reservation System:
+Implement a system for managing hotel room reservations. 
+ - Each room should have a room number, a room type, and a price. 
+ - Guests should have a name, an address, and an email. 
+ - Reservations should have a reservation ID, a check-in date, and a check-out date. 
+ > Create a function that retrieves all available rooms of a certain type during a specific date range
+ > Create a function that checks which guest booked the most rooms
+ > Create a function that calculates the occupancy rate of the hotel for a given time period (in percentage, meaning if the hotel had 10 rooms in total and 5 where booked then the occupancy rate is 50).
+
+Social Media System:
+Implement a system to manage a social media platform, which will include users, posts, and comments. 
+ - Each user should have a unique username, a password, and an email. 
+ - Posts should have a post ID, a content, and a date created. 
+ - Comments should have a comment ID, a content, and a date created. 
+ > Create a function that retrieves all posts created by a certain user
+ > Create a function that retrives the user with the most posts
+ > Create a function that retrieves the post with the most comments
+ 
+
+Fitness Tracking System:
+Implement a system to track workouts and fitness goals. 
+ - Each user should have a unique username, a password, and an email. 
+ - Workouts should have a workout ID, a type (such as cardio or strength training), and a duration. 
+ - Goals should have a goal ID, a type (such as weight loss or muscle gain), and a target. 
+ > Create a function that retrieves all workouts of a certain type that were completed by a certain user
+ > Create a function that retrieves the average duration of all workouts of a certain user
