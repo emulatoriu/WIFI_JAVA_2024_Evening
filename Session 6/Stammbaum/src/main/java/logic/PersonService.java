@@ -1,3 +1,5 @@
+package logic;
+
 import data.Person;
 
 import javax.swing.text.html.Option;
