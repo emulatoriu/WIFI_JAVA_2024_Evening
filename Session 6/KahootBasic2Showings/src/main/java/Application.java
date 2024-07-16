@@ -31,6 +31,14 @@ public class Application {
         System.out.println(name2.equals("BlaBla"));
         System.out.println(name2.equalsIgnoreCase("bLaBla"));
 
+        //ENdless loop
+//        int j=0;
+//        for(; j<10; j=j++) {
+//            System.out.println("Hallo");
+//        }
+
+        char B = 'A' + 1;
+        System.out.println(B);
 
     }
     private static int increase(int number) {
