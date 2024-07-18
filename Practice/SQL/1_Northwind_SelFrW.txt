@@ -1,0 +1,21 @@
+1.	Zeige die Daten aller Kunden, die als ContactTitle „Owner“ haben.
+2.	Liste alle Produkte auf, deren UnitPrice über 50 Euro liegt.
+3.	Ermittle alle Bestellungen, die nach dem 1. Januar 2020 aufgegeben wurden.
+4.	Zeige die Details aller Lieferanten, die in Deutschland ansässig sind.
+5.	Liste alle Mitarbeiter auf, deren Title „Sales Representative“ ist.
+6.	Ermittle die Namen aller Kunden, die in London wohnen.
+7.	(Zeige alle Bestellungen, die einen Gesamtwert von über 1000 Euro haben.)
+8.	Liste die Namen und Preise der Produkte auf, die von „Lieferant X“ geliefert werden.
+9.	Ermittle alle Mitarbeiter, die in der Abteilung „Marketing“ arbeiten.
+10.	Zeige die Daten aller Kunden, deren City „Paris“ ist.
+11.	(Liste alle Produkte auf, die in der Kategorie „Beverages“ sind.)
+12.	Ermittle die Namen aller Lieferanten, die in den USA ansässig sind.
+13.	Zeige die Daten aller Bestellungen, die im Jahr 2021 aufgegeben wurden.
+14.	Liste alle Kunden auf, deren Country „Spain“ ist.
+15.	Ermittle alle Mitarbeiter, die vor dem Jahr 1990 eingestellt wurden.
+16.	Zeige alle Lieferanten, deren ContactTitle „Marketing Manager“ ist.
+17.	Liste die Namen und Kontaktinformationen der Kunden auf, die in „Berlin“ wohnen.
+18.	Ermittle die Namen aller Produkte, die weniger als 10 Einheiten auf Lager haben.
+19.	Zeige die Namen und Adressen der Mitarbeiter, die in „Seattle“ wohnen.
+(Optional - 20.	Liste alle Kunden auf, die mehr als 10 Bestellungen aufgegeben haben.)
+
