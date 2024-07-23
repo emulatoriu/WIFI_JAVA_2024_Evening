@@ -1,0 +1,36 @@
+1. Zeige, wie viele Produkte in der Kategorie 'Beverages' vorhanden sind.
+2. Berechne den durchschnittlichen Preis für Produkte in der Kategorie 'Dairy Products'.
+3. Ermittle die Gesamtbestellmenge für das Produkt 'Chai'.
+4. Zähle, wie viele Bestellungen durch 'Federal Shipping' geliefert wurden, und zeige die Gesamtanzahl.
+5. Finde alle Produkte, deren Lagerbestand gleich 0 ist, und zeige die Produktbezeichnungen.
+6. Berechne den Gesamtumsatz (Bestellmenge x Produktpreis), den der Mitarbeiter Robert King erzielt hat.
+7. Finde alle Kunden, die mehr als 15 Bestellungen aufgegeben haben, und zeige ihre Namen und die Gesamtzahl der Bestellungen.
+8. Liste alle Bestellungen auf, bei denen mehr als 50 Einheiten des Produkts 'Tofu' bestellt wurden, und zeige Bestellnummer und Gesamtmenge.
+9. Zähle, wie viele Bestellungen von der Mitarbeiterin Nancy Davolio aufgegeben wurden.
+10. Berechne den durchschnittlichen Lagerbestand in der Kategorie 'Confections'.
+11. Berechne den Gesamtwert der Bestellungen für den Kunden 'Wartian Herkku'.
+12. Finde alle Lieferanten, die mehr als 8 verschiedene Produkte liefern, und liste ihre Namen und die Anzahl der gelieferten Produkte.
+13. Zähle, wie viele Bestellungen von der Mitarbeiterin Margaret Peacock verarbeitet wurden, und zeige die Gesamtzahl.
+14. Liste alle Produkte auf, die von mehr als zwei verschiedenen Lieferanten geliefert werden, und zeige die Produktbezeichnungen und die Anzahl der Lieferanten.
+15. Berechne den Gesamtwert der durch 'United Package' versendeten Bestellungen und zeige den Gesamtwert.
+16. Ermittle, wie viele verschiedene Produktkategorien von 'QUICK-Stop' bestellt wurden, und zeige die Anzahl der Kategorien.
+17. Zeige, wie viele Produkte in jeder Produktkategorie vorhanden sind.
+18. Ermittle den durchschnittlichen Preis aller Produkte in der Kategorie 'Dairy Products'.
+19. Bestimme die Gesamtanzahl der Bestellungen für jeden Kunden.
+20. Zeige die höchste Bestellmenge, die je für ein Produkt getätigt wurde.
+21. Finde den Gesamtwert aller Bestellungen für jeden Kunden.
+22. Ermittle den niedrigsten und höchsten Preis für Produkte jedes Lieferanten.
+23. Zeige die Anzahl der Mitarbeiter in jeder Abteilung.
+24. Bestimme den durchschnittlichen Einheitspreis der Produkte für jeden Lieferanten.
+25. Zeige den Gesamtumsatz (Preis x Menge) für jedes Produkt.
+26. Ermittle die Gesamtanzahl der von jedem Mitarbeiter bearbeiteten Bestellungen.
+27. Liste alle Produktkategorien auf, in denen mehr als 10 Produkte vorhanden sind.
+28. Zeige alle Lieferanten, die mehr als 5 verschiedene Produkte liefern.
+29. Ermittle alle Kunden, die Bestellungen im Gesamtwert von über 1000 Euro getätigt haben.
+30. Zeige die Mitarbeiter, die mehr als 50 Bestellungen bearbeitet haben.
+31. Liste alle Produkte auf, deren durchschnittlicher Bestellwert über 500 Euro liegt.
+32. Zeige alle Kunden, die mehr als 20 Bestellungen aufgegeben haben.
+33. Ermittle die Lieferanten, deren Produkte einen durchschnittlichen Preis von unter 20 Euro haben.
+34. Liste alle Mitarbeiter auf, die in Städten mit mehr als 2 Mitarbeitern leben.
+35. Zeige die Produktkategorien, in denen der durchschnittliche Produktbestand unter 50 Einheiten liegt.
+36. Ermittle die Kunden, deren durchschnittlicher Bestellwert unter 100 Euro liegt.
