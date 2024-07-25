@@ -1,0 +1,31 @@
+Insert
+Füge einen neuen Kunden mit Namen, Adresse und Telefonnummer hinzu.
+Einfügen eines neuen Produkts mit Namen, Preis und Kategorie-ID.
+Hinzufügen eines neuen Lieferanten mit Name, Kontakt und Adresse.
+Füge einen neuen Mitarbeiter ein, inklusive Namen, Titel, Einstellungsdatum und Abteilung.
+Einfügen eines neuen Produkts mit zugehörigen Lieferanten- und Kategorieinformationen.
+Hinzufügen einer neuen Bestellung, einschließlich Kunden-ID, Bestelldatum und Lieferadresse.
+Füge einen neuen Lieferanten ein, inklusive aller Produkte, die er liefert, mit Preisen und Kategorien.
+Einfügen einer neuen Produktlinie, einschließlich mehrerer Produkte mit verschiedenen Lieferanten und Kategorien.
+Hinzufügen einer neuen Bestellung mit mehreren Bestelldetails, die Produkte aus verschiedenen Kategorien umfasst.
+
+Update
+Aktualisiere die Adresse des Kunden "ALFKI" auf eine neue Adresse.
+Ändere den Einheitspreis des Produkts mit der ID 10 auf 20 Euro.
+Aktualisiere die Telefonnummer des Mitarbeiters mit der ID 5 auf eine neue Nummer.
+Aktualisiere die Adresse aller Kunden in "Berlin" auf eine spezifische neue Adresse.
+Ändere den Status aller Bestellungen von "Offen" auf "Geschlossen", die vor dem Jahr 2020 aufgegeben wurden.
+Aktualisiere das Einstellungsdatum aller Mitarbeiter in der "Verkaufsabteilung" auf ein neues Datum.
+Aktualisiere die Preise aller Produkte einer bestimmten Kategorie um 10%, falls der aktuelle Lagerbestand unter einem bestimmten Level liegt.
+Ändere die Kategorie aller Produkte eines Lieferanten auf eine neue Kategorie, falls der Lieferant seine Adresse ändert.
+Aktualisiere die Gehälter aller Mitarbeiter in einer bestimmten Region um 5%, falls ihre Abteilung das Jahresziel erreicht hat.
+
+Delete
+Lösche einen Kunden anhand seiner Kunden-ID.
+Entferne ein Produkt anhand seiner Produkt-ID.
+Lösche alle Produkte, die seit über einem Jahr nicht bestellt wurden.
+Entferne alle Kunden, die seit über zwei Jahren keine Bestellungen aufgegeben haben.
+Lösche alle Bestellungen, die in einem bestimmten Jahr getätigt wurden und noch nicht ausgeliefert sind.
+Lösche alle Lieferanten, die keine aktiven Produkte im Angebot haben.
+Entferne alle Kunden, die in den letzten fünf Jahren keine Bestellungen über 1000 Euro getätigt haben.
+Lösche alle Bestellungen, die älter als drei Jahre sind und einen Gesamtwert unter 500 Euro haben.

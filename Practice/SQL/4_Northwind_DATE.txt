@@ -1,0 +1,10 @@
+Zeige alle Bestellungen, die am '2023-01-01' aufgegeben wurden.
+Liste alle Bestellungen auf, die zwischen dem '2023-01-01' und '2023-03-31' getätigt wurden.
+Zeige alle Mitarbeiter, deren Geburtstag im Monat März liegt.
+Ermittle das aktuelle Alter der Mitarbeiter auf Basis ihres Geburtsdatums.
+Finde alle Kunden, die seit dem '2022-01-01' keine Bestellungen mehr getätigt haben.
+Zeige die durchschnittliche Lieferzeit von Bestellungen basierend auf dem Bestell- und Lieferdatum.
+Liste alle Produkte auf, deren Einführungsdatum vor dem Jahr 2020 liegt.
+Ermittle alle Bestellungen, die innerhalb von 30 Tagen nach Aufgabe geliefert wurden.
+Zeige alle Mitarbeiter, die vor dem '1990-01-01' eingestellt wurden.
+Finde alle Kunden, die an einem bestimmten Datum (z.B. '2023-04-15') Geburtstag haben.
