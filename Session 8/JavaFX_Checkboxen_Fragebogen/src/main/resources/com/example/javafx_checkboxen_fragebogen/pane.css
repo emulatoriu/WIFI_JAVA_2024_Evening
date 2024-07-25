@@ -1,0 +1,7 @@
+/* Stylesheet für ein Pane */
+.vbox {
+    -fx-background-color: linear-gradient(to bottom, #333333, green); /* Hintergrundfarbe, die von dunkel zu hell verläuft */
+    -fx-background-radius: 10px; /* Randradius für gerundete Ecken */
+    -fx-border-radius: 10px; /* Randradius für gerundete Ecken */
+    -fx-padding: 20px; /* Innenabstand */
+}
