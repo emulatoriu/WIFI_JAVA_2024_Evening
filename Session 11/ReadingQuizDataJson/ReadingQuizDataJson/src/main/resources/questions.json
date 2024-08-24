@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "Wie lautet die Hauptstadt von Österreich",
+      "correctAnswer": "Wien",
+      "wrongAnswers": [
+        "Bregenz",
+        "Kuala Lumpur",
+        "Little Bogota"
+      ]
+    },
+    {
+      "question": "Wie heißt der derzeitige Bundeskanzler",
+      "correctAnswer": "Karl Nehammer",
+      "wrongAnswers": [
+        "Mickey Mouse",
+        "Bugs Bunny",
+        "Terminator"
+      ]
+    }
+  ]
+}
