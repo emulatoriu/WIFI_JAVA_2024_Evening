@@ -1,0 +1,58 @@
+Get
+
+Servus
+Schreibe ein höfliches Programm, dass auf einem Endpoint "greet" mit einem GetMapping mit "Servus" antwortet.
+
+Erweiterung:
+Erweitere "Servus", sodass bei einem Endpoint "many" eine Liste von verschiedenen Grußformen returniert wird und bei einem Endpoint "one" nur Servus.
+
+Gruß zu jeder Stund
+Schreibe ein Programm, dass zu jeder Tageszeit anders grüßt. Bis 10:00 Uhr antwortet es mit "Guten Morgen", bis 14:00 Uhr mit "Mahlzeit", bis 21:00 Uhr mit "Guten Abend" und bis 03:00 Uhr früh "Gute Nacht"
+
+Erweiterung
+Erweitere "Gruß zu jeder Stund" sodass es einen Endpoint gibt, der auf Deutsch grüßen kann, und einen der auf Englisch grüßt
+
+
+
+Post
+
+Das Geheimnis
+Du bist auf eine Weisheit gestoßen, die du mit allen teilen möchtest. Aber du möchtest es nur denjenigen Preis geben, die das geheime Zauberwort kennen.
+Entwickle ein Backend in Spring, dass sobald es einen Post request mit dem Wort "bitte" erhält eine deiner Weisheiten zurück liefert.
+
+Erweiterung
+Erweitere "Das Geheimnis" in dem du einen Endpoint entwickelst, der aus deiner Liste von Weisheiten zufällig returniert, sobald man diesem das Zauberwort "bitte" schickt und einen der eine Weisheit empfängt und diese der Liste hinzufügt.
+
+Erweiterung
+Erweitere deinen Webserver, sodass er nun nicht Weisheiten empfängt, sondern auch, wer diese geschrieben hat.
+Entwickle einen weiteren Endpoint, der alle Weisheiten eines bestimmten Verfassers zurückgibt.
+
+Get & PathVariable
+
+Candy Shop
+Ein Süßigkeiten Geschäft gibt vor alle Süßigkeiten der Welt in seinem Sortiment zu haben. Entwickle einen Get endpoint, der über die Pathvariable nach einer bestimmten Süßgikeit fragt. Dein Endpoint muss aus einer Liste von Süßigkeiten eroieren, ob die Süßigkeit existiert. Gib eine entsprechende Meldung zurück.
+
+Die Pflege deines Gartens
+Deine Kontaktliste ist wie ein Garten voller Freundschaften. Manche Blumen blühen auf, andere müssen weichen. Entwirf einen Weg, um Kontakte zu aktualisieren oder zu entfernen, als würdest du deinen Garten pflegen.
+Entwickle einen Endpoint, der deinen Kontakten (Strings) einen neuen Kontakt hinzugügen kann.
+Entwickle einen Endpoint, der einen Kontakt entfernen kann (DeleteMapping)
+
+Erweiterung:
+Entwickle eine Klasse Friend, die einen Freund von dir representiert. Jeder Friend hat einen Namen, ein Alter und eine Id.
+
+Entwickle einen Endpoint, der einen Friend anhand einer Id zurückgeben kann.
+Entwickle einen Endpoint, der einen Friend aktualisieren kann (PutMapping)
+Entwickle einen Endpoint, der alle Friends returnieren kann
+
+Erweiterung 2:
+Erweitere deine Endpoints um Statusmeldungen.
+Erweitere dein Backend um eine custom Exception, falls ein Freund anhand seiner Id gesucht wird, dieser aber nicht gefunden wird. Deine Exception soll dann ein "NotFound" zurück liefern.
+
+Custom Exception
+Die Legende vom verlorenen Artikel
+In deinem Online-Shop gibt es Legenden über seltene Artikel, die so selten sind, dass sie manchmal gar nicht existieren. Was passiert, wenn jemand nach einem solchen Phantomprodukt sucht? Erzähle die Geschichte, wie du mit solch einer Situation umgehst, indem du eine eigene Exception kreierst.
+
+Entwickle außerdem Endpoints für das hinzufügen, löschen, updaten und den Erhalt von Artikeln (mach für den Erhalt von Artikeln auch einen Endpoint für alle Artikel).
+
+
+Beispiel mit JavaFx

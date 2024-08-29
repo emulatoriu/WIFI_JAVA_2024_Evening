@@ -1,0 +1,96 @@
+1. Car Rental System:
+Implement a system to manage car rentals, including vehicles, customers, and rental agreements.
+
+Each vehicle should have a unique vehicle ID, a make, a model, and a rental price per day.
+Customers should have a customer ID, a name, and a driver's license number.
+Rental agreements should have a rental ID, a start date, an end date, and the total rental cost.
+Create a function that retrieves all vehicles available for rent in a given price range.
+Create a function that calculates the total income generated from rentals in a given period.
+Create a function that finds the customer who has rented cars the most frequently.
+
+2. Course Registration System:
+Implement a system to manage course registrations for a university.
+
+Each course should have a course ID, a name, a department, and a credit value.
+Students should have a student ID, a name, and a major.
+Registrations should have a registration ID, a student ID, a course ID, and a semester.
+Create a function that retrieves all courses offered by a certain department.
+Create a function that finds the student with the most credits registered for a given semester.
+Create a function that lists all students registered for a particular course.
+
+3. Event Management System:
+Implement a system to manage events, attendees, and tickets.
+
+Each event should have an event ID, a name, a location, and a date.
+Attendees should have an attendee ID, a name, and an email.
+Tickets should have a ticket ID, an event ID, a ticket type, and a price.
+Create a function that retrieves all events happening in a given location.
+Create a function that calculates the total revenue from ticket sales for an event.
+Create a function that finds the event with the highest number of attendees.
+
+4. Employee Management System:
+Implement a system to manage a company's employees and departments.
+
+Each employee should have an employee ID, a name, a department, and a salary.
+Departments should have a department ID, a name, and a budget.
+Create a function that retrieves all employees in a given department.
+Create a function that calculates the average salary of employees in a department.
+Create a function that lists departments exceeding a certain budget.
+
+5. Inventory Management System:
+Implement a system to manage inventory items, suppliers, and purchase orders.
+
+Each item should have an item ID, a name, a category, and a price.
+Suppliers should have a supplier ID, a name, and a contact information.
+Purchase orders should have an order ID, an item ID, a quantity, and an order date.
+Create a function that retrieves all items under a certain price.
+Create a function that finds the supplier with the most orders.
+Create a function that calculates the total cost of orders placed in a given period.
+
+6. Weather Tracking System:
+Implement a system to track weather conditions in different locations.
+
+Each record should have a record ID, a location, a date, and a temperature.
+Create a function that retrieves the average temperature for a location in a given period.
+Create a function that finds the location with the highest temperature recorded.
+Create a function that lists all records of temperatures above a certain threshold.
+
+7. Public Transportation System:
+Implement a system to manage buses, routes, and tickets.
+
+Each bus should have a bus ID, a model, and a capacity.
+Routes should have a route ID, a start point, an end point, and a duration.
+Tickets should have a ticket ID, a route ID, a passenger name, and a purchase date.
+Create a function that retrieves all routes between two points.
+Create a function that calculates the total number of tickets sold for a route.
+Create a function that finds the bus with the highest number of kilometers traveled.
+
+8. Customer Feedback System:
+Implement a system to manage customer feedback for a product or service.
+
+Feedback should have a feedback ID, a customer name, a rating (1 to 5), and a comment.
+Create a function that retrieves all feedback with a rating above a certain level.
+Create a function that calculates the average rating for a product or service.
+Create a function that lists the most common words used in the comments.
+
+9. Project Management System (continued):
+Implement a system to manage projects, tasks, and employees.
+
+Each project should have a project ID, a name, a deadline, and a budget.
+Tasks should have a task ID, a project ID, a description, and a status (e.g., pending, completed).
+Employees should be assigned to tasks with an employee ID.
+Create a function that retrieves all tasks for a project that are not yet completed.
+Create a function that calculates the total budget utilized by completed tasks in a project.
+Create a function that identifies the employee with the highest number of completed tasks.
+
+10. Food Delivery System:
+Implement a system to manage food delivery orders, restaurants, and customers.
+
+Each restaurant should have a restaurant ID, a name, a cuisine type, and a delivery area.
+Customers should have a customer ID, a name, an address, and a contact number.
+Orders should have an order ID, a restaurant ID, a customer ID, a delivery address, an order total, and a delivery time.
+Create a function that retrieves all restaurants that deliver to a specific area.
+Create a function that calculates the total revenue generated by a restaurant from deliveries.
+Create a function that identifies the customer with the most orders placed.
+
+These exercises are designed to provide comprehensive practice with Java streams, focusing on creating and manipulating complex data structures, applying filters, aggregations, and other stream operations to solve real-world problems in various domains.
