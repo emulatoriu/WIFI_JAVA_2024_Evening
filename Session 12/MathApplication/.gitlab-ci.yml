@@ -1,0 +1,32 @@
+image: maven:latest
+
+before_script:
+    - echo 'changing directory'
+    - cd MathApplication
+    - dir
+
+stages:
+    - test
+    - build
+    - doku
+
+test:
+    stage: test
+    script: 
+        - echo 'Das ist ein test'
+        - 'mvn test'
+
+build:
+    stage: build
+    script: 
+        - echo 'Das ist ein build'
+        - 'mvn package'
+
+
+doku:
+    stage: doku
+    image: aergus/latex
+    script: 
+        - echo 'Hier wird Doku geschrieben'
+        - cd docs
+        - pdflatex hello_world.tex
