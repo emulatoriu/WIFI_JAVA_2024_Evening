@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class AdditionTest {
 
     @ParameterizedTest
-    @CsvSource({"5, 7, 12"})
+    @CsvSource({"5, 7, 12", "3,3,6"})
     void calculate(double first, double second, double expected) {
         Calculate adder = new Addition();
         double result = adder.calculate(first, second);
