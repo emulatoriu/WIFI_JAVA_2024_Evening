@@ -21,5 +21,7 @@ public class Cat {
     private UUID id;
     private String name;
     private String breed;
-    private String owner;
+    @ManyToOne
+    @JoinColumn(name="user_id")
+    private User owner;
 }
